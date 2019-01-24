@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is my Third file.
 This is edited version.
 
 
 this is done.
+=======
+>>>>>>> parent of ad45044... this is my forth commit
 =======
 >>>>>>> parent of ad45044... this is my forth commit
