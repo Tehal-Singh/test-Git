@@ -1,1 +1,2 @@
 THis is my git hub first file.
+this file is edited by durgesh
